@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete_article" />
+    <string name="navigation_drawer_open" />
+    <string name="navigation_drawer_close" />
+</resources>
